@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니다 여러분 👋
 - 🌱 I’m currently learning ...
 
 <p align="center"> 
