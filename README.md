@@ -21,6 +21,11 @@
 
 </p>
 
+<br>
+
+## 📗 Blog
+<a href="https://velog.io/@rungoat"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+
 <!--
 **RUNGOAT/RUNGOAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
