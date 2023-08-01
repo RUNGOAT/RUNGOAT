@@ -28,7 +28,7 @@
 
 ## 💻 Project
 - 👨‍🏫 <a href="https://github.com/ico-d103/ico">아이코(ICO)</a>
-  - **알파세대를 위한 체험형 경제 교육 플랫폼 서비스**
+  - **알파세대를 위한 체험형 경제 교육 플랫폼 서비스** 🏆
   - 기간 : 2023.04.10 ~ 2023.05.19
   - 사용 기술 : Spring Boot, Java, JPA, MySQL, MongoDB, Redis, Docker, Jenkins
  <br>
