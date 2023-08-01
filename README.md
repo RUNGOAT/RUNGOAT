@@ -28,25 +28,25 @@
 
 ## 💻 Project
 - 👨‍🏫 <a href="https://github.com/ico-d103/ico">아이코(ICO)</a>
-  - 🔔 **알파세대를 위한 체험형 경제 교육 플랫폼 서비스**
+  - **알파세대를 위한 체험형 경제 교육 플랫폼 서비스**
   - 기간 : 2023.04.10 ~ 2023.05.19
   - 사용 기술 : Spring Boot, Java, JPA, MySQL, MongoDB, Redis, Docker, Jenkins
  <br>
  
 - 📝 <a href="https://github.com/RUNGOAT/Picstory">픽스토리(Picstory)</a>
-  - 🔔 **사용자의 사진과 선택한 장르로 이야기를 만들어 들려주는 서비스**
+  - **사용자의 사진과 선택한 장르로 이야기를 만들어 들려주는 서비스**
   - 기간 : 2023.02.20 ~ 2023.04.07
   - 사용 기술 : Django, Python, MariaDB, S3, CloudFront, OpenAI API
  <br>
  
 - 📷 <a href="https://github.com/SMILE-SSAFY/SMILE-Server">스마일(SMILE)</a>
-  - 🔔 **사진작가 구인/구직 플랫폼 서비스**
+  - **사진작가 구인/구직 플랫폼 서비스**
   - 기간 : 2023.01.03 ~ 2023.02.17
   - 사용 기술 : Spring Boot, Java, JPA, MySQL, QueryDSL, Spring Security, JWT, Spring Batch
  <br>
  
 - 🎬 <a href="https://github.com/RUNGOAT/Final-moviePJT-Sneeze">스니즈(Sneeze)</a>
-  - 🔔 **사용자 선호도 기반 영화 추천 프로젝트**
+  - **사용자 선호도 기반 영화 추천 프로젝트**
   - 기간 : 2022.11.16 ~ 2022.11.25
   - 사용 기술 : Django, Vue.js, Ajax, Python, SQLite, JavaScript
 
